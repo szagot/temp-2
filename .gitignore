@@ -1,2 +1,5 @@
+# Ignora todos os arquivos iniciando com o nome teste
 teste*
+
+# Ignora todo o conteudo da pasta "log"
 log/
